@@ -8,7 +8,7 @@
 
 3. Install dependencies
 
-   > npm install
+   > cd rn-animation && npm install
 
 4. Start the server locally
 
